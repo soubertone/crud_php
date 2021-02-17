@@ -9,9 +9,11 @@
 
 <p>Pronto! Sistema instalado</p>
 
-
-
-
+<h4>Linguagens e frameworks utilizados</h4>
+<ul>
+  <li> Bootstrap</li>
+  <li> PHP</li>
+</ul>
 
 
 
