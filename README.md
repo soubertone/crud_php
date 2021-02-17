@@ -20,5 +20,5 @@
 
 
 
-<label>Desenvolvidor por Bertone Leonardo</label>
+<label>Desenvolvidor por Bertone Leonardo</label><br>
 <label>Todos os direitos reservados.</label>
