@@ -1,0 +1,15 @@
+Usuário banco de dados
+HOST = localhost
+USER = root
+PASS = admin
+DB = crud_basico
+
+SQL > CREATE TABLE `crud_basico`.`crud_registros` (
+  `idcrud_registros` INT NOT NULL AUTO_INCREMENT,
+  `nome_completo` VARCHAR(100) NOT NULL,
+  `contato` CHAR(11) NOT NULL,
+  `email` VARCHAR(100) NOT NULL,
+  `senha` VARCHAR(50) NOT NULL,
+  PRIMARY KEY (`idcrud_registros`));
+
+  
